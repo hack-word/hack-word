@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm hack-word</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1292677%2Fscreenshots%2F6139167%2Favento.gif&f=1&nofb=1&ipt=eb8964420cc07fb4ee49bc8e6ae074edd00eaef8f9757e9357bee376e813e156&ipo=images">
+<img align="right" alt="Coding" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fcoding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hack-word&label=Profile%20views&color=0e75b6&style=flat" alt="hack-word" /> </p>
 
